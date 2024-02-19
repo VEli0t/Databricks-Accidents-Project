@@ -5,7 +5,7 @@ Projet ayant pour but de trouver le meilleur classifieur permettant de predire l
 
 Ces données ont été tirées du site data.gouv.fr
 
-Le repo contient ce README.md, ainsi que deux noteBooks Databricks au format dbc
+Le repo contient ce README.md, ainsi que deux noteBooks ("Modelisation.dbc" & "Test API.dbc") Databricks au format dbc
 
 Le modèle retenu est la RandomForest, qui est plus longue pour fonctionner mais est plus précise (64,4%)
 
