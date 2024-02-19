@@ -13,5 +13,8 @@ Endpoint :
 url : 
 https://adb-108552759901354.14.azuredatabricks.net/serving-endpoints/veyret/invocations
 
+url n°2 (avec cpu au lieu de gpu)
+https://adb-108552759901354.14.azuredatabricks.net/serving-endpoints/veyret2/invocations
+
 token : 
 dapi8149d4847cf8ce87994242ecb9da5d22-2
